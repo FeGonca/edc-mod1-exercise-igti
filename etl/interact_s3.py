@@ -17,5 +17,5 @@
 #         bucket = 'igti-felipe-rais-default-landing-zone-539475468352'
 #         s3_client.upload_file(filename, bucket, object_name)
 
-# if __name__ == "__main__":
-#     upload_s3()        
+
+#upload_s3()        
